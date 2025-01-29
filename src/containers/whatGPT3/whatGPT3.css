@@ -56,7 +56,7 @@
   margin: 0;
 }
 
-.gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
+.gpt3__whatgpt3-feature .gpt3__features-container__feature-text {
   max-width: 700px;
 }
 
@@ -102,7 +102,7 @@
   flex-direction: column;
 }
 
-.gpt3__whatgpt3-container .gpt3__features-container_feature-text {
+.gpt3__whatgpt3-container .gpt3__features-container__feature-text {
   margin-top: 0.5rem;
 }
 
@@ -123,7 +123,7 @@
     flex-direction: column;
   }
 
-  .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
+  .gpt3__whatgpt3-feature .gpt3__features-container__feature-text {
     margin-top: 0.5rem;
   }
 
